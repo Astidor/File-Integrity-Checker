@@ -1,0 +1,1 @@
+The File Integrity Monitor (FIM) is a PowerShell script designed to monitor changes in files within a specified directory. It provides functionality to create a baseline of file checksums, continuously monitor for changes, and notify the user of any modifications, creations, or deletions of files.
